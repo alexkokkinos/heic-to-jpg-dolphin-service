@@ -12,8 +12,8 @@ KDE Store Page: https://store.kde.org/p/2299018
     - Arch: Install `libheif`
     - Ubuntu: Looks kind of complicated, it might be `libheif1`, I don't know.
 
-2. Configure Dolphin > Context Menu > Download New Services
-3. Search for this service "Convert HEIC to JPG" and install it.
+1. Configure Dolphin > Context Menu > Download New Services
+1. Search for this service "Convert HEIC to JPG" and install it.
 
 ## Usage
 
